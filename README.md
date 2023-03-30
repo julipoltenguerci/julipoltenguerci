@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 Soy Julieta ✨👩‍💻
 
-<!--
-**julipoltenguerci/julipoltenguerci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Desarrolladora trainee/junior full-stack 💻
 
-Here are some ideas to get you started:
+#### Actualmente:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudio en la Universidad Tecnológica Nacional - FRC - Tecnicatura Universitaria en Programación.
+- Conseguí mi primer trabajo en el mundo IT en una empresa de soluciones digitales, en la que aprendo todos los días.
+- Busco afianzar principios, buenas prácticas y metodologías de desarrollo.
+
+#### Conocimiento en las siguientes tecnologías ⚡:
+
+● C#
+● ASP.NET
+● HTML
+● CSS
+● JavaScript
+● ReactJS
+● Bootstrap
+● Nodejs
+● Express.js
+● MS SQL Server – Express
+● MongoDB
