@@ -1,6 +1,6 @@
 ### Hi there 👋 Soy Julieta ✨👩‍💻
 
-#### Desarrolladora trainee/junior full-stack 💻
+#### Desarrolladora junior full-stack 💻
 
 #### Actualmente:
 
